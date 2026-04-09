@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">lb4</string>
+    <string name="hint_input">Введите текст…</string>
+    <string name="menu_show_hint">Показать подсказку</string>
+    <string name="menu_clear">Очистить</string>
+    <string name="menu_about">О программе</string>
+    <string name="ctx_clear">Очистить поле</string>
+    <string name="ctx_uppercase">В верхний регистр</string>
+    <string name="ctx_lowercase">В нижний регистр</string>
+    <string name="hint_text">Длительное нажатие на поле ввода открывает контекстное меню.</string>
+    <string name="student_name">Зимин Андрей Михайлович</string>
+    <string name="about_message">Лабораторная работа №4\nЗимин Андрей Михайлович</string>
 </resources>
