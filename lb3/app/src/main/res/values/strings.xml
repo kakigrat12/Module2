@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">lb3</string>
+    <string name="appwidget_text">Открыть сайт</string>
+    <string name="configure_widget">Настройка виджета</string>
+    <string name="url_hint">Введите URL сайта</string>
+    <string name="add_widget">Добавить виджет</string>
+    <string name="student_name">Зимин Андрей Михайлович</string>
 </resources>
