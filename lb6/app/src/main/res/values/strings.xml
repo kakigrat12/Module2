@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">lb6</string>
+    <string name="btn_notify">Отправить уведомление</string>
+    <string name="menu_about">О программе</string>
+    <string name="notification_title">Уведомление</string>
+    <string name="notification_text">Привет! Это тестовое уведомление.</string>
+    <string name="notification_ticker">Новое уведомление!</string>
+    <string name="about_message">Лабораторная работа №6\nЗимин Андрей Михайлович</string>
+    <string name="student_name">Зимин Андрей Михайлович</string>
 </resources>
