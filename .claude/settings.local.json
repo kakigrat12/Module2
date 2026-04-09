@@ -3,7 +3,19 @@
     "allow": [
       "Bash(git rm:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m ':*)"
+      "Bash(git commit -m ':*)",
+      "Bash(python3:*)",
+      "Bash(unzip -p 'Модуль 2.docx' word/document.xml)",
+      "Bash(xmllint --format -)",
+      "Bash(./gradlew assembleDebug)",
+      "Bash(/usr/libexec/java_home -v 17)",
+      "Bash(/usr/libexec/java_home -v 21)",
+      "Bash(export JAVA_HOME=$\\(/usr/libexec/java_home -v 17 || /usr/libexec/java_home -v 21 \\))",
+      "Bash(/usr/libexec/java_home:*)",
+      "Read(//Library/Java/JavaVirtualMachines/**)",
+      "Read(//Users/andrey/Library/Java/**)",
+      "Bash(java -version)",
+      "Bash(JAVA_HOME=\"/Applications/Android Studio.app/Contents/jbr/Contents/Home\" ./gradlew assembleDebug)"
     ]
   }
 }
