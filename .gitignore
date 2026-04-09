@@ -1,0 +1,14 @@
+# Android build
+build/
+.gradle/
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Temp files
+~$*
+
+# macOS
+.DS_Store

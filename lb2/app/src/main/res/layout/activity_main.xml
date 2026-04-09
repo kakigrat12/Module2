@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Карта на весь экран -->
+    <org.osmdroid.views.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- ФИО поверх карты внизу -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:background="#88000000"
+        android:paddingHorizontal="12dp"
+        android:paddingVertical="4dp"
+        android:text="Зимин Андрей Михайлович"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp" />
+
+</FrameLayout>
