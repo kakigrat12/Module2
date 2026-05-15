@@ -4,8 +4,8 @@
     <string name="btn_show">Показать записи</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_about">О программе</string>
-    <string name="about_message">Лабораторная работа №8\nЗимин Андрей Михайлович</string>
-    <string name="student_name">Зимин Андрей Михайлович</string>
+    <string name="about_message">Лабораторная работа №8\nФургал Илья Константинович</string>
+    <string name="student_name">Фургал Илья Константинович</string>
     <string name="hint_input">Введите текст</string>
     <string name="pref_header_general">Общие</string>
     <string name="pref_title_notifications">Уведомления</string>

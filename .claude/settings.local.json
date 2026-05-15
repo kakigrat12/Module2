@@ -15,7 +15,13 @@
       "Read(//Library/Java/JavaVirtualMachines/**)",
       "Read(//Users/andrey/Library/Java/**)",
       "Bash(java -version)",
-      "Bash(JAVA_HOME=\"/Applications/Android Studio.app/Contents/jbr/Contents/Home\" ./gradlew assembleDebug)"
+      "Bash(JAVA_HOME=\"/Applications/Android Studio.app/Contents/jbr/Contents/Home\" ./gradlew assembleDebug)",
+      "Read(//private/tmp/**)",
+      "Bash(unzip -q \"/Users/andrey/Module2/Модуль 2.docx\" -d docx_extract)",
+      "Bash(unzip -p \"Модуль 2.docx\" word/document.xml)",
+      "Bash(unzip -q \"Модуль 2.docx\" -d temp_docx)",
+      "Bash(find /Users/andrey/Module2/lb*/app/src/main/res -name \"colors.xml\")",
+      "Bash(xargs -I{} sh -c 'echo \"=== {} ===\"; cat {}')"
     ]
   }
 }

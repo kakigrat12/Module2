@@ -2,7 +2,7 @@
     <string name="app_name">lb7</string>
     <string name="btn_play">Воспроизвести звук</string>
     <string name="menu_about">О программе</string>
-    <string name="about_message">Лабораторная работа №7\nЗимин Андрей Михайлович</string>
-    <string name="student_name">Зимин Андрей Михайлович</string>
+    <string name="about_message">Лабораторная работа №7\nФургал Илья Константинович</string>
+    <string name="student_name">Фургал Илья Константинович</string>
     <string name="snackbar_text">Воспроизводится звук</string>
 </resources>

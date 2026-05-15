@@ -8,6 +8,6 @@
     <string name="ctx_uppercase">В верхний регистр</string>
     <string name="ctx_lowercase">В нижний регистр</string>
     <string name="hint_text">Длительное нажатие на поле ввода открывает контекстное меню.</string>
-    <string name="student_name">Зимин Андрей Михайлович</string>
-    <string name="about_message">Лабораторная работа №4\nЗимин Андрей Михайлович</string>
+    <string name="student_name">Фургал Илья Константинович</string>
+    <string name="about_message">Лабораторная работа №4\nФургал Илья Константинович</string>
 </resources>
